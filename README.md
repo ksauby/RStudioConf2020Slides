@@ -439,7 +439,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      How Rmarkdown Changed My Life  
 :speaker::    Rob Hyndman [robjhyndman](https://twitter.com/robjhyndman)  
-:link::  
+:link::  (https://robjhyndman.com/seminars/rmarkdown/)
 :scroll::     [pdf](https://github.com/robjhyndman/Rmarkdown2020/raw/master/Rmarkdown.pdf)
 :movie_camera::      
 
@@ -635,7 +635,7 @@ All the workshop material is located in the Github Organzation [rstudio::conf 20
 
 :star2::      Bridging The Gap Between SQL And R: Introducing Queryparser And Tidyquery  
 :speaker::    Ian Cook  
-:link::  
+:link:: (https://github.com/ianmcook/rstudioconf2020)
 :scroll::     
 :movie_camera::      
 
